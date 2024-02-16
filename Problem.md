@@ -22,3 +22,10 @@ should return
 ```
 
 What is the longest common substring between the DNA strands in `full_prob.json`? For ease of checking, how many times does each letter appear in this string?
+
+
+
+
+
+
+**Credit:** This problem adapted from the Rosalind Project [here](https://rosalind.info/)
