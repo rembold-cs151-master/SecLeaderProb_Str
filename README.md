@@ -1,2 +1,2 @@
-# SecLeaderProb_Str
-A problem for section leaders to work on in pairs emphasizing string manipulations
+# Section Leader Pair Problem: Strings
+A problem for section leaders to work on in pairs. This week emphasizing string manipulations.
